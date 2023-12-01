@@ -1,0 +1,13 @@
+expName = "Noise_Water"
+dataDirectory = "C:\Users\fpphysik\Desktop\Daten\WiSe23-24\Steiner-Vogel\3"
+maxFreqAmp = 10
+freqRange = 5500
+maxTimeAmp = 50
+b1freq = 2012
+cap = 9.9
+rxGain = 2
+nrPnts = 16384
+acqTime = 0.5
+nrScans = 50
+position = [1405,552]
+experiment = "MonitorNoise"

@@ -1,0 +1,7 @@
+z_shim = 3.83
+y_shim = -28.84
+x_shim = -3.99
+expName = "water"
+dataDirectory = "C:\Users\fpphysik\Desktop\Daten\WiSe23-24\Steiner-Vogel\4"
+position = [1421,293]
+experiment = "AnalyseCoil"
